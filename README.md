@@ -7,8 +7,8 @@
 <!--<li><em>MBA Student at <a href="https://online.essex.ac.uk/">University of Essex Online</a></em</li>-->
 </ul>
 
-[![GitHub: Neehi](https://img.shields.io/badge/-Neehi-black?style=flat&logo=github&logoColor=white&link=https://www.github.com/Neehi)](https://github.com/Neehi)&nbsp;
-[![Linkedin: nicksnape](https://img.shields.io/badge/-nicksnape-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicksnape/)](https://www.linkedin.com/in/nicksnape/)
+[![Linkedin: nicksnape](https://img.shields.io/badge/-nicksnape-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nicksnape/)](https://www.linkedin.com/in/nicksnape/)&nbsp;
+[![GitHub: Neehi](https://img.shields.io/github/followers/Neehi?label=follow&style=social&logo=github)](https://github.com/Neehi)
 
 ### Technology & Tools
 
