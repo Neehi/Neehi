@@ -1,5 +1,6 @@
-## Hi, I'm [Nick](https://www.github.com/Neehi) <a href="https://www.github.com/Neehi"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=neehi" alt="visitor badge" /></a>
+## Hi, I'm [Nick](https://www.github.com/Neehi) <a href="https://www.github.com/Neehi">
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=neehi" alt="visitor badge" /></a> 
 <ul>
 <li><em>Software Engineer at <a href="https://www.flightdataservices.com">L3Harris Commercial Aviation, Flight Data Services</a></em></li>
 <li><em>Team Member of <a href="https://www.teamteatime.net">TeamTeaTime</a></em></li>
