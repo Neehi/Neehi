@@ -56,8 +56,8 @@ const nicksnape = {
 
 <div align="center">
   <a href="https://github.com/Neehi">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Neehi&show_icons=true&theme=prussian" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neehi&layout=compact&theme=prussian" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Neehi&show_icons=true&theme=dracula" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neehi&layout=compact&theme=dracula" />
   </a>
 </div>
 
