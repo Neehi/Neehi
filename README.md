@@ -14,12 +14,12 @@
 
 ```JavaScript
 const nicksnape = {
-  languages: ['C++', 'C#', 'Java', 'Python', 'PHP', 'TypeScript', 'JavaScript', 'HTML', 'CSS'],
-  frameworks: ['Django', 'Flask', 'Laravel', 'React', 'React Native', 'Redux', 'AngularJS'],
-  graphics: ['Unity', 'SDL2', 'LWJGL', 'GLFW', 'OpenGL'],
+  languages: ['Java', 'C++', 'C#', 'Python', 'PHP', 'JavaScript', 'HTML', 'CSS'],
+  frameworks: ['Django', 'Flask', 'Laravel', 'Angular', 'React', 'React Native'],
+  graphics: ['Unity', 'SDL2', 'GLFW', 'OpenGL'],
   databases: ['PostgreSQL', 'MySQL'],
-  editors: ['Visual Studio Code', 'Visual Studio', 'IntelliJ IDEA'],
-  tools: ['Docker', 'Git'],
+  editors: ['VS Code', 'Visual Studio', 'JetBrains IDEs'],
+  tools: ['Docker', 'Git', 'CMake', 'Gradle'],
   platforms: ['Web', 'Mobile', 'Cloud'],
   memberships: ['Institution of Analysts and Programmers']
 }
