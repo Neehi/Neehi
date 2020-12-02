@@ -32,8 +32,8 @@ const nicksnape = {
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Neehi&show_icons=true&theme=dracula" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neehi&layout=compact&theme=dracula" />
   </a>
-  <a href="https://github.com/Neehi/jampy-vs-zombies"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=jampy-vs-zombies&theme=dracula" /></a>
-  <a href="https://github.com/Neehi/java-snake-game"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=java-snake-game&theme=dracula" /></a>
+  <a href="https://github.com/Neehi/aoc-2020"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=aoc-2020&theme=dracula" /></a>
+  <a href="https://github.com/Neehi/snake-game"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=snake-game&theme=dracula" /></a>
 </div>
 
 <!-- Resources -->
