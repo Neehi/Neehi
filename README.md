@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=neehi" alt="visitor badge" /></a> 
 <ul>
-<li><em>Software Engineer at <a href="https://www.flightdataservices.com">L3Harris Commercial Aviation, Flight Data Services</a></em></li>
+<li><em>Engineering Manager at <a href="https://www.infogrid.io">Infogrid</a></em></li>
 <li><em>Team Member of <a href="https://www.teamteatime.net">TeamTeaTime</a></em></li>
 <!--<li><em>MBA Student at <a href="https://online.essex.ac.uk/">University of Essex Online</a></em</li>-->
 </ul>
@@ -32,8 +32,8 @@ const nicksnape = {
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Neehi&show_icons=true&theme=dracula" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neehi&layout=compact&theme=dracula" />
   </a>
-  <a href="https://github.com/Neehi/aoc-2020"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=aoc-2020&theme=dracula" /></a>
-  <a href="https://github.com/Neehi/aoc-2019"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=aoc-2019&theme=dracula" /></a>
+  <a href="https://github.com/Neehi/aoc-2021"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=aoc-2021&theme=dracula" /></a>
+  <a href="https://github.com/Neehi/google-foobar"><img height="112em" src="https://github-readme-stats.vercel.app/api/pin/?username=Neehi&repo=google-foobar&theme=dracula" /></a>
 </div>
 
 <!-- Resources -->
